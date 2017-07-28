@@ -1,0 +1,33 @@
+	[website:http://studyweb2016.freevnn.com]
+	- Xin chào các bạn hôm nay mình xin hướng dẫn các bạn cách tạo form đăng ký bằng Angularjs và Php
+	- Vì bài này khá là dài nên mình đã chuẩn bị trước khi làm, mình chỉ lại những dòng code thực thi cho các bạn dễ hiểu
+
+	chú ý:
+	- chuẩn bị database tạo bản users
+	- tạo form html/css
+	- chuẩn bị file angular.min.js
+	- tạo các file php để xữ lý các submit gửi từ angularjs qua php để xử lý
+
+
+	- giờ các bạn xem nhé!
+	- các bạn chuẩn bị các file đó trước nhé
+
+	- giờ mình xem các xử lý cái form cái nhé!
+	- ở đây mình dùng ng-blur trong Angularjs nhé các bạn
+
+	- ng-bind-html: dùng để append thẻ html vào một cái thẻ nào đó các bạn thích, muốn sử dụng được ng-bind-html thì các bạn tải thư viện về và add vào html
+
+	- giờ chúng ta đi từng bước xử lý nhé!
+
+	- xử lý việc nhập một username vào và so sánh xem có bị trùng trong csdl hay không nhé
+		+ ng-blur:dùng khi ta thay đổi nội dung trong ô textbox và khi click chuột ra ngoài ô sẽ tự động gọi một hàm nào đó bạn viết, học phương thức nào đó!
+
+	- vậy là mình đã xong rồi nhé các bạn! Hiện tại thì chưa được tối ưu lắm nhé
+	các bạn về làm lại cho tối ưu nhé!
+
+	-  các bạn có thể vào website của tôi xem các bài viết trước nhé hoặc lên youtube để xem nhé!
+
+	Chúc các bạn thành công! chào bạn!
+
+
+
